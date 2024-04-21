@@ -3,6 +3,7 @@
 
 The models's summary :
 <hr>
-<img width="438" alt="image" src="https://github.com/raghavkaushik2004/AlexNet-architechture/assets/136466980/8c550fa6-3e9e-4afc-bcb8-0001141e3a0c">
+<img width="437" alt="image" src="https://github.com/raghavkaushik2004/AlexNet-architechture/assets/136466980/5b23ccda-ef20-48c7-9f67-6b083afb1556">
+
 
 
